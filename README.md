@@ -53,8 +53,8 @@ A web application inspired by Splitwise, designed to help users track shared exp
 
 4. **Access the App**
     - Open your browser and go to
-    `- Local:        http://localhost:3000`
-    `- Network:      http://192.168.29.18:3000`
+    - Local: `http://localhost:3000`
+    - Network: `http://192.168.29.18:3000`
 
 ## Contributing
 
